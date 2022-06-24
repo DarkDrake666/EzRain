@@ -23,4 +23,4 @@
 - Easy Setup / Clean and Noob-Friendly UI
 
 ## Previews
-[Images](https://discord.gg/4h37Je7Qus)
+[Images](https://imgur.com/a/QuEUty2)
