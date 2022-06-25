@@ -21,7 +21,7 @@
 - Discord Webhook Logging System
 - All OS Supported (windows, linux...)
 - Easy Setup / Clean and Noob-Friendly UI
-- 
+- Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
 
 ## Previews
 [Images](https://imgur.com/a/QuEUty2)
