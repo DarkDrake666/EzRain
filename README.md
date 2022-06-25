@@ -21,6 +21,7 @@
 - Discord Webhook Logging System
 - All OS Supported (windows, linux...)
 - Easy Setup / Clean and Noob-Friendly UI
+- 
 
 ## Previews
 [Images](https://imgur.com/a/QuEUty2)
