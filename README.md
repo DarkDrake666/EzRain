@@ -19,7 +19,7 @@
 - Websocket Based (no browser involved)
 - Automatic Captcha Solving (~3s solving time)
 - Discord Webhook Logging System
-- All OS Supported (windows, linux...)
+- All OS Supported (windows...)
 - Easy Setup / Clean and Noob-Friendly UI
 - Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
 
