@@ -9,7 +9,7 @@
 
 <h3 align="center">EzRain - https://discord.gg/4h37Je7Qus</h3>
 
-<p align="center">The BEST BloxFlip Rain AutoJoiner</p>
+<p align="center">The BEST BloxFlip Rain AutoJoiner - BYPASSING THE NEW ANTIBOT (BotFail)</p>
 
 ---
 
@@ -17,7 +17,7 @@
 
 # Features
 - Websocket Based (no browser involved)
-- Automatic Captcha Solving (~3s solving time)
+- Bypassing the new AntiBot! (BotFail)
 - Discord Webhook Logging System
 - All OS Supported (windows...)
 - Easy Setup / Clean and Noob-Friendly UI
