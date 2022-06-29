@@ -16,10 +16,9 @@
 > If you like my projects, please consider leaving a :star: at the top right of the repository :)
 
 # Features
-- Websocket Based (no browser involved)
+- Websocket Based
 - Bypassing the new AntiBot! (BotFail)
 - Discord Webhook Logging System
-- All OS Supported (windows...)
 - Easy Setup / Clean and Noob-Friendly UI
 - Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
 
