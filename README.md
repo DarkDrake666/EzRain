@@ -23,5 +23,5 @@
 - Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
 
 ## Previews
-[Vidéo](https://www.youtube.com/watch?v=tg0wg09WTjs)
-[Images](https://imgur.com/a/QuEUty2)
+- [Video](https://www.youtube.com/watch?v=tg0wg09WTjs)
+- [Images](https://imgur.com/a/QuEUty2)
