@@ -9,7 +9,7 @@
 
 <h3 align="center">EzRain - https://discord.gg/4h37Je7Qus</h3>
 
-<p align="center">The BEST BloxFlip Rain AutoJoiner - BYPASSING THE NEW ANTIBOT (BotFail)</p>
+<p align="center">The BEST BloxFlip Rain AutoJoiner - BYPASSING HCAPTCHA</p>
 
 ---
 
@@ -17,7 +17,7 @@
 
 # Features
 - Websocket Based
-- Bypassing the new AntiBot! (BotFail)
+- Bypassing HCAPTCHA!
 - Discord Webhook Logging System
 - Easy Setup / Clean and Noob-Friendly UI
 - Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
