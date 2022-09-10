@@ -20,6 +20,7 @@
 - Bypassing HCAPTCHA!
 - Discord Webhook Logging System
 - Easy Setup / Clean and Noob-Friendly UI
+- Anti Trap-Rain
 - Automatic Message Spammer to avoid "The system is now awarding R$ to players who have participated in the chat rain! This process can take a few minutes!"
 
 ## Previews
